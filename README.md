@@ -21,7 +21,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/guthierre-araujo-26759020a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guthierre-araujo-26759020a" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/guthierrearaujo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guthierre-araujo-26759020a" height="30" width="30" /></a>
 <a href="https://instagram.com/gutoferreir.a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@gutoferreir.a" height="30" width="30" /></a>
 </p>
 
